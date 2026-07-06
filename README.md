@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
-<h3 align="center">GeeksforGeeks Campus Mantri | AI & ML Enthusiast | Python Developer | Data Analyst | Problem Solver</h3>
+<h3 align="center">10.00 SGPA | GeeksforGeeks Campus Mantri | AI & ML Enthusiast | Python Developer | Data Analyst | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitrksingh1920&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
