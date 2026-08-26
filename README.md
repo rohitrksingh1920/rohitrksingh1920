@@ -6,13 +6,13 @@
 
 <br/>
 
-<a href="https://github.com/rohitrksingh1920">
+<!-- <a href="https://github.com/rohitrksingh1920">
   <img src="https://komarev.com/ghpvc/?username=rohitrksingh1920&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views"/>
-</a>
+</a> -->
 &nbsp;
-<a href="https://github.com/rohitrksingh1920?tab=followers">
+<!-- <a href="https://github.com/rohitrksingh1920?tab=followers">
   <img src="https://img.shields.io/github/followers/rohitrksingh1920?label=Followers&style=flat-square&color=1e3a5f" alt="GitHub Followers"/>
-</a>
+</a> -->
 &nbsp;
 <a href="https://github.com/rohitrksingh1920?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-43-0ea5e9?style=flat-square" alt="Repositories"/>
