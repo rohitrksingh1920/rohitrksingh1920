@@ -5,7 +5,7 @@ Turning ideas into practical software, intelligent tools, and useful digital pro
 <a href="https://github.com/rohitrksingh1920"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/irohitrs01/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:rohitk.singh1920@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=rohitrksingh1920&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" /></div>👨‍💻 About Me
+<!-- <img src="https://komarev.com/ghpvc/?username=rohitrksingh1920&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" />--></div>👨‍💻 About Me
 I'm Rohit Singh, a BCA student specializing in Artificial Intelligence & Data Science at K.R. Mangalam University. I enjoy building software that connects backend engineering, data, automation, and AI.
 - 🚀 Founder of CREOPM Technologies, exploring digital products, AI solutions, and SaaS ideas.
 - 🧠 Interested in LLMs, Retrieval-Augmented Generation (RAG), Agentic AI, and applied machine learning.
